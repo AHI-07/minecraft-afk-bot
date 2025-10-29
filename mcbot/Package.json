@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft AFK bot using Mineflayer and Express",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "mineflayer": "^4.20.1"
+  }
+}
